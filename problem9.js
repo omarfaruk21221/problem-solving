@@ -7,4 +7,4 @@ function factorial(num) {
   return result;
 }
 
-console.log(factorial(5));
+console.log("problem 9 output", factorial(5));

@@ -9,4 +9,4 @@ function findEvenNumbers(arr) {
   return evenNumbers;
 }
 
-console.log(findEvenNumbers([1, 2, 3, 4, 5, 6, 7, 8]));
+console.log("problem 7 output", findEvenNumbers([1, 2, 3, 4, 5, 6, 7, 8]));

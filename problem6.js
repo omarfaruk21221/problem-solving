@@ -7,4 +7,4 @@ function sumOfArray(arr) {
   return sum;
 }
 
-console.log(sumOfArray([1, 7, 3, 4]));
+console.log("problem 6 output", sumOfArray([1, 7, 3, 4]));

@@ -8,4 +8,4 @@ function capitalizeWords(str) {
   return result.join(" ");
 }
 
-console.log(capitalizeWords("omar faruk"));
+console.log("problem 8 output", capitalizeWords("omar faruk"));
